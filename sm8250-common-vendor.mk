@@ -157,15 +157,25 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.vpp@1.3 \
     btaudio_offload_if \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
+    liba2dpoffload \
+    libaudioparsers \
+    libbatterylistener \
     libbluetooth_audio_session_qti \
     libbluetooth_audio_session_qti_2_1 \
+    libcomprcapture \
+    libexthwplugin \
     libfastcrc \
+    libhdmiedid \
+    libhdmipassthru \
+    libhfp \
     libqcodec2_base \
     libqcodec2_basecodec \
     libqcodec2_core \
     libqcodec2_platform \
     libqcodec2_utils \
     libqcodec2_v4l2codec \
+    libsndmonitor \
+    libspkrprot \
     libasphere \
     libshoebox \
     android.hardware.secure_element@1.0-impl \
