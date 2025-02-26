@@ -540,6 +540,7 @@ PRODUCT_PACKAGES += \
     libwfduibcsinkinterface \
     libwfduibcsrc \
     libwfduibcsrcinterface \
+    vendor.qti.ImsRtpService-V1-ndk \
     vendor.qti.diaghal@1.0 \
     vendor.qti.hardware.wifidisplaysession@1.0 \
     vendor.qti.ims.callcapability@1.0 \
@@ -551,6 +552,7 @@ PRODUCT_PACKAGES += \
     vendor.qti.ims.rcsconfig@2.0 \
     vendor.qti.ims.rcsconfig@2.1 \
     vendor.qti.imsrtpservice@3.0 \
+    vendor.qti.imsrtpservice@3.1 \
     CACertService \
     CneApp \
     IWlanService \
@@ -558,7 +560,6 @@ PRODUCT_PACKAGES += \
     TimeService \
     PowerOffAlarm \
     QtiTelephonyService \
-    imssettings \
     WfdService \
     ims \
     qcrilmsgtunnel \
