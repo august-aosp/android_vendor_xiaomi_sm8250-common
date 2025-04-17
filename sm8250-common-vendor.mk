@@ -160,7 +160,6 @@ PRODUCT_PACKAGES += \
     libbluetooth_audio_session_qti \
     libbluetooth_audio_session_qti_2_1 \
     libfastcrc \
-    libmmosal_vendor \
     libqcodec2_base \
     libqcodec2_basecodec \
     libqcodec2_core \
@@ -448,8 +447,6 @@ PRODUCT_PACKAGES += \
     libdpmtcm \
     libimscamera_jni \
     libimsmedia_jni \
-    libmmosal \
-    libmmparser_lite \
     vendor.qti.ImsRtpService-V1-ndk \
     vendor.qti.diaghal@1.0 \
     vendor.qti.ims.callcapability@1.0 \
